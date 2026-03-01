@@ -71,3 +71,9 @@ This logic ensures:
 - Stable forward motion
 - Smooth turning
 - Quick correction when deviating from the line
+
+ 
+
+## 🖥 Proteus Simulation
+
+![Proteus Simulation](proteus-simulation.jpeg )
