@@ -77,3 +77,7 @@ This logic ensures:
 ## 🖥 Proteus Simulation
 
 ![Proteus Simulation](proteus-simulation.jpeg )
+
+## 🏁 Final Prototype
+
+![Final System](final_look.jpeg)
